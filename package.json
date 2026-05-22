@@ -1,0 +1,10 @@
+{
+  "name": "autonomous-agent-payment-rails",
+  "version": "1.0.0",
+  "description": "Smart Account infrastructure for AI Agent commerce",
+  "dependencies": {
+    "@account-abstraction/contracts": "^0.7.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "viem": "^2.10.0"
+  }
+}
